@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Three.js/React Three Fiber
 
 <!--
 **Jmart5564/Jmart5564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
