@@ -1,9 +1,9 @@
 ### Hi there 👋
-🌱 I’m currently learning Three.js/React Three Fiber
-🔭 I’m currently working on my Portfolio Website
-😄 Pronouns: She/Her
-📫 How to reach me: Jmart5564@gmail.com
-💬 Ask me about mushroom hunting and bikepacking!
+- 🌱 I’m currently learning Three.js/React Three Fiber
+- 🔭 I’m currently working on my Portfolio Website
+- 😄 Pronouns: She/Her
+- 📫 How to reach me: Jmart5564@gmail.com
+- 💬 Ask me about mushroom hunting and bikepacking!
 
 <!--
 **Jmart5564/Jmart5564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
