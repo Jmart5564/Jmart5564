@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Three.js/React Three Fiber
-- 🔭 I’m currently working on my Portfolio Website
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: Jmart5564@gmail.com
 - 💬 Ask me about mushroom hunting and bikepacking!
@@ -40,7 +38,6 @@ Here are some ideas to get you started:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmart5564&show_icons=false&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmart5564&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
